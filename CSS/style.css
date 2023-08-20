@@ -4,7 +4,9 @@ h3 {color: green; font-size: medium;}
 p {color: black;} 
 
 /*Contact*/
-
+.icons{
+    text-align: center;
+  }
   /* Style all font awesome icons */
 .fa {
     padding: 20px;
